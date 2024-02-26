@@ -1,0 +1,6 @@
+path: '/opt/ml/processing/input/code/datasets' # root path
+train: 'train' # training
+val: 'val' # validation
+test: 'test' # test
+nc: 3 # number classes
+names: ['helmet', 'vest', 'head'] # class names

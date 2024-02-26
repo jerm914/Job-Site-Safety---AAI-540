@@ -1,0 +1,6 @@
+path: '/opt/ml/input/data/training' # root path
+train: 'train' # training
+val: 'val' # validation
+test: 'test' # test
+nc: 3 # number classes
+names: ['helmet', 'vest', 'head'] # class names
