@@ -4,7 +4,7 @@
 
 This project is a part of the AAI-540 Machine Learning Operations course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-**Project Status: Completed 26/2/20234**
+**Project Status: Completed 26/2/2024**
 
 ## Architecture Diagram
 This diagram is a visual representation of the system's architecture, illustrating how different elements of the system are connected and how data flows between them.
