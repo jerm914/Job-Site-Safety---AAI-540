@@ -9,7 +9,7 @@ This project is a part of the AAI-540 Machine Learning Operations course in the 
 ## Architecture Diagram
 This diagram is a visual representation of the system's architecture, illustrating how different elements of the system are connected and how data flows between them.
 
-![image](https://github.com/jerm914/Job-Site-Safety---AAI-540/assets/68162866/832d9834-1bad-4a90-9ebe-3e7fb1857744)
+![image](https://github.com/jerm914/Job-Site-Safety---AAI-540/assets/68162866/05513901-ca83-416c-a212-855e2564e9e7)
 
 ## Pipeline Directed Acyclic Graph (DAG)
 The graph below represents operations as nodes, with dependencies illustrated as edges. Each node corresponds to a specific operation within the pipeline, while each edge signifies the data flow between tasks.
