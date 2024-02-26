@@ -70,7 +70,7 @@ Goals:
 
 
 ## Data Source 
-[Safety Helmet Detection](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection)
+[HardHat-Vest Dataset](https://www.kaggle.com/datasets/muhammetzahitaydn/hardhat-vest-dataset-v3/data)
 
 This dataset contains 5000 images with bounding box annotations for these 3 classes:
 - Helmet
